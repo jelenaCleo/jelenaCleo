@@ -1,5 +1,6 @@
 ### Hi there 👋
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jelenCleo&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jelenaCleo&theme=dark)](https://git.io/streak-stats)
 
 <!--
 **jelenaCleo/jelenaCleo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
