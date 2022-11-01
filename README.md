@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jelenCleo&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jelenaCleo&show_icons=true&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jelenaCleo&theme=dark)](https://git.io/streak-stats)
 
 <!--
